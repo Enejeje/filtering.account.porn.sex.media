@@ -64,4 +64,4 @@ print("Content that incites, encourages, or invites to commit a crime")
 
 print("Publishing content containing incitement, incitement, or invitation to violent and suicidal acts")
 
-Advertising and promoting the use of drugs, psychotropic substances and cigarettes")
+print("Advertising and promoting the use of drugs, psychotropic substances and cigarettes")
