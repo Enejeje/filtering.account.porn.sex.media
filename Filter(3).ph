@@ -10,7 +10,6 @@ print("https://b2n.ir/r58546")
 
 print("http://yun.ir/73wpsf")
 
-("http://Pornhub.com")
+print("http://Pornhub.com")
 
-
-("http://XNXX.COM")
+print("http://XNXX.COM")
