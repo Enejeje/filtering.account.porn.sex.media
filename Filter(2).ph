@@ -1,4 +1,4 @@
-(filtering account porn sex media)
+print(filtering account porn sex media)
 
 print("https://s8.uupload.ir/files/screenshot_20230611_114210_p41t.jpg")
 
